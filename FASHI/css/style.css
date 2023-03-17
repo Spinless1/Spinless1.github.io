@@ -1,0 +1,65 @@
+
+
+
+
+/* nav{
+  background-color: black;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.house{
+  width: 90%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+}
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.house .home{
+  background-color: orange;
+}
+.house ul{
+  color: white;
+  width: 100%;
+  height: 80px;
+  justify-items: space-between;
+}
+.house ul li{
+  flex: 1;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 2px solid white;
+}
+.mainnav1{
+  /* background-color: brown; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainnav1 .container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.writeup{
+  position: absolute;
+  background-color: brown;
+}
+.sales h2 span{
+  /* background-color: brown; */
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 6px;
+  border-radius: 80%;
+} */ */
